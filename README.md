@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Morgan Chemarin, a passionate backend developer from French. I am currently in the 2nd year of BUT MMI.</p>
+<p align="left">I'm Morgan Chemarin, a passionate frontend and backend developer from French. I am currently in the 2nd year of BUT MMI.</p>
 
 ###
 
