@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Reach me on **morgan.chemarin@laposte.net**<br>🌱 I’m currently learning **React and Node Developpement**<br>🎯 Goals: **Find an internship**</p>
+<p align="left">✨ Reach me on <b>morgan.chemarin@laposte.net</b><br>🌱 I’m currently learning <b>React and Node Developpement</b><br>🎯 Goals: <b>Find an internship</b></p>
 
 ###
 
